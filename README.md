@@ -5,4 +5,4 @@
 HTML
 CSS
 
-11.06.2022 - **Start HTML, CSS and JavaScript learning.***
+11.06.2022 - **Start HTML, CSS and JavaScript learning.**/
